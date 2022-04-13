@@ -1,5 +1,5 @@
 # mknk_novels
-Set of short novels for Mikeneko, Fandeads, Mafumafu, and others  
+Set of short novels for Mikeneko, Rushia, Fandeads, Mafumafu, and others  
 ## How to post your novels  
 You can post your texts to our project, which has two directories as options:  
 * `short`  
@@ -14,6 +14,8 @@ You can post your texts to our project, which has two directories as options:
 
 The format of your documents must be plain texts.
 
+#mknk_novels
+みけねこ、るしあ、まふまふ、ふぁんでっど、その他についての小説を扱っています。
 ## 小説を投稿する方法  
 2種類のディレクトリがオプションとしてあり、文書をプロジェクトに投稿できます。  
 * `short`  
