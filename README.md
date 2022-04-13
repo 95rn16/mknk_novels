@@ -14,7 +14,7 @@ You can post your texts to our project, which has two directories as options:
 
 The format of your documents must be plain texts.
 
-#mknk_novels
+# mknk_novels
 みけねこ、るしあ、まふまふ、ふぁんでっど、その他についての小説を扱っています。
 ## 小説を投稿する方法  
 2種類のディレクトリがオプションとしてあり、文書をプロジェクトに投稿できます。  
