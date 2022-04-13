@@ -1,20 +1,4 @@
 # mknk_novels
-Set of short novels for Mikeneko, Rushia, Fandeads, Mafumafu, and others  
-## How to post your novels  
-You can post your texts to our project, which has two directories as options:  
-* `short`  
-  A directory for short texts.  
-  Add your documents under `short`.  
-
-* `long`  
-  A directory for novels consisted of some series of long texts.  
-  create your original directory under `long`, and add your several documents there.  
-  Please be careful when you name your directory and texts,  
-  because the names work as titles of your novel and that of sections.  
-
-The format of your documents must be plain texts.
-
-# mknk_novels
 みけねこ、るしあ、まふまふ、ふぁんでっど、その他についての小説を扱っています。
 ## 小説を投稿する方法  
 2種類のディレクトリがオプションとしてあり、文書をプロジェクトに投稿できます。  
@@ -29,3 +13,19 @@ The format of your documents must be plain texts.
   その名前は、小説や章のタイトルとして機能します。
 
 文書の形式は、プレーンテキストにしてください。
+
+# mknk_novels
+Set of short novels for Mikeneko, Rushia, Fandeads, Mafumafu, and others  
+## How to post your novels  
+You can post your texts to our project, which has two directories as options:  
+* `short`  
+  A directory for short texts.  
+  Add your documents under `short`.  
+
+* `long`  
+  A directory for novels consisted of some series of long texts.  
+  create your original directory under `long`, and add your several documents there.  
+  Please be careful when you name your directory and texts,  
+  because the names work as titles of your novel and that of sections.  
+
+The format of your documents must be plain texts.
